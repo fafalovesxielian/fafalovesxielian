@@ -14,7 +14,7 @@ ${\textsf{\color{#cfcfcf} 17yo}}$ <img src="https://file.garden/Zl2CmebwmXKvGhRN
   </p>
   
 <p align="center">
-  <img src="https://64.media.tumblr.com/0361f3a4e311672de0228512bf4c96b0/46e1e51bd12bae2c-19/s500x750/a9bed103fc6758d672570b0cb71d2754aefe7f8d.pnj" alt="hyuna" width="350"/>
+  <img src="https://64.media.tumblr.com/0361f3a4e311672de0228512bf4c96b0/46e1e51bd12bae2c-19/s500x750/a9bed103fc6758d672570b0cb71d2754aefe7f8d.pnj" alt="hyuna" width="550"/>
 </p> 
 
 
@@ -39,7 +39,11 @@ strwpage (WIP)
  </p>
  
   <p align="center">
-  ${\textsf{\color{#847265}  I don't talk much unless I feel comfortable with smn, I don't usually like hugs unless I have a c*h on one of my ponies, ok? ok}}$ 
+  ${\textsf{\color{#847265}  I don't talk much unless I feel comfortable with smn, I don't usually like hugs unless I have a c*h on one of my ponies, ok ? ok}}$ 
 
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ </p>
 
+  <img src="https://i.postimg.cc/fWdKHwcX/42.gif" alt="stamp" width="100"/> <img src="https://i.postimg.cc/x8yNqX49/Tumblr-l-161100848667032.png" alt="stamp" width="100"/> <img src="https://i.postimg.cc/02rjy7GW/ezgif-27793c560eec51.gif" alt="stamp" width="100"/> <img src="https://i.postimg.cc/W3nxx5tr/Untitled605-20251016170213.png" alt="stamp" width="100"/>  <img src="https://64.media.tumblr.com/f1494ab3e694699f37557da526beaff9/ec8f693b87536b40-6d/s100x200/5014d79593adcea9f2288d7a8f6894acf12ce7d1.gifv" width="100"/>
 
