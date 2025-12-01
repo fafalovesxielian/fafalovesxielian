@@ -44,6 +44,6 @@ strwpage (WIP)
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  </p>
-
+<p align="center">
   <img src="https://64.media.tumblr.com/f1494ab3e694699f37557da526beaff9/ec8f693b87536b40-6d/s100x200/5014d79593adcea9f2288d7a8f6894acf12ce7d1.gifv" width="100"/>
-
+ </p>
