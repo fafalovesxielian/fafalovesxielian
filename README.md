@@ -24,7 +24,7 @@
 
 
   <p align="center">
-   <a href="https://rentry.co/5xian">rentry of pt 
+   <a href="https://rentry.co/5xian">rentry made for pt 
 </div>
      
 <p align="center">
