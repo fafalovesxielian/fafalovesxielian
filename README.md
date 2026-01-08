@@ -1,18 +1,15 @@
 
 
 <div align="center">
-  <span><img src="https://komarev.com/ghpvc/?username=mourneraztec&color=e1e8ed&style=flat&label=hey" /> 
+  <span><img src="https://komarev.com/ghpvc/?username=mourneraztec&color=e1e8ed&style=flat&label=heyyaa" /> 
     </div>
     
 <p align="center">
 ━━━━━━
  </p>
- 
- <p align="center">
-  ${\textsf{\color{#e1e8ed}　w2i/boop me 2 int (comf)}}$
 
 <p align="center">
-        <a href="https://jonalover.atabook.org"> ata</a>
+        <a href="https://jonalover.atabook.org"> atabook ^__^</a>
 </p>
 </div>
   
