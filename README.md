@@ -18,7 +18,7 @@
         <a href="https://jonalover.atabook.org"> sign ata</a> 
     <img src="https://file.garden/Zl2CmebwmXKvGhRN/candyshoppe%20rentry/pixels/white/34" alt="me" width="20" 
   <p align="center">  
-  ${\textsf{\color{#e1e8ed}　hiiihii. }}$
+  ${\textsf{\color{#e1e8ed}　welc }}$
 </p>
 </div>
 
