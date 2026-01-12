@@ -15,17 +15,13 @@
 
 
 <p align="center">
-        <a href="https://jonalover.atabook.org"> sign ata</a> 
+        <a href="https://jonalover.atabook.org"> ata</a> 
     <img src="https://file.garden/Zl2CmebwmXKvGhRN/candyshoppe%20rentry/pixels/white/34" alt="me" width="20" 
   <p align="center">  
-  ${\textsf{\color{#e1e8ed}　welc }}$
+  ${\textsf{\color{#e1e8ed}　hi }}$
 </p>
 </div>
 
-
-  <p align="center">
-   <a href="https://rentry.co/5xiian">rentry made for pt 
-</div>
      
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
